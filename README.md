@@ -1,8 +1,10 @@
-<div align=center><img width="300" height="150" src="docs/images/cat.jpg"/>
+
   
 # Pytorch Networks
 
 **The Pytorch implementations of famous basic networks. Unscheduled update.**
+
+**Co-work in NTIRE2021 challenge.**
 
 [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/HaiyangLiu1997/Pytorch-Networks/blob/master/LICENSE)
 [![stars](https://img.shields.io/github/stars/HaiyangLiu1997/Pytorch-Networks.svg)](https://github.com/HaiyangLiu1997/Pytorch-Networks/stargazers)
